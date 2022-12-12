@@ -1,0 +1,16 @@
+[{
+"table_name" : "employee",
+"data" : [{
+    "employee_id": 1,
+    "employee_first_name": "sarath",
+    "employee_last_name": "chandra",
+    "employee_emailID": "myemail@test.com"
+  },
+{
+    "employee_id": 2,
+    "employee_first_name": "sarat",
+    "employee_last_name": "asapu",
+    "employee_emailID": "newemail@test.com"
+  }
+]
+}]
